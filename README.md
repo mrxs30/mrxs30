@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://itzpoli.vercel.app/">Portfolio</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/jun-edward-policarpio-5196a4330/">LinkedIn</a> •
   <a href="mailto:212182policarpio@gmail.com">Email</a>
 </p>
 
