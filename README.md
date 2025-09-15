@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hi, I'm Jun Edward D. Policarpio</h1>
-<h3 align="center">Full Stack Web Developer & Computer Science Professional</h3>
+<h1 align="center">👋 Hi, I'm Edward D. Policarpio</h1>
+<h3 align="center">Full Stack Web Developer & BS Computer Science</h3>
 
 <p align="center">
   <a href="https://itzpoli.vercel.app/">Portfolio</a> •
@@ -47,21 +47,6 @@ Tech-driven Computer Science professional with background in IT support and codi
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
-## 💼 Experience
-
-**IT Support Intern** | Dasca FiberBlaze Dasmarinas | Oct 2024 – Feb 2025
-
-- Assisted in basic network setup, troubleshooting, and maintenance for fiber internet services
-- Supported customer service team in configuring connectivity issues for clients
-- Gained hands-on experience in diagnosing connectivity issues and providing on-site assistance
-- Maintained TV channels in the server room, ensuring smooth broadcasting and uptime
-
-## 🎓 Education
-
-**BS Computer Science** | AISAT College Dasmarinas, Cavite | Sep 2021 – Aug 2025
-
-**SIIS TVL-ICT | Computer Programming** | PCU SIIS & College Dasmarinas, Cavite | Jun 2019 – Mar 2021
-
 ## 🌟 Featured Projects
 
 ### Barangay Records and Request Management System (BRRMS)
@@ -94,11 +79,8 @@ Designed and implemented an automated sales and inventory management system capa
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jun-edward-policarpio-5196a4330/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:212182policarpio@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://itzpoli.vercel.app/)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/brmbsbot)
 
 ---
-
-⭐️ From [Edward Policarpio](https://github.com/yourusername)
