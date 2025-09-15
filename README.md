@@ -57,12 +57,14 @@ Served as project leader and lead developer for a comprehensive web-based manage
 **Tech:** PHP, Bootstrap, JavaScript, AJAX, PostgreSQL
 
 ### BRRMS Telegram Bot
-**Link:** https://t.me/brmbsbot  
+**Link:** https://t.me/brmbsbot
+
 Developed a Telegram bot integrated with the BRRMS to provide residents with real-time status updates on document requests. Implemented mobile number linking, chat ID mapping, and automated responses.
 
 **Tech:** PHP, Telegram Bot SDK, PostgreSQL
 
 ### Cubvertos Sales and Management System
+
 Designed and implemented an automated sales and inventory management system capable of computing daily, monthly, and annual sales. Integrated features include a Point of Sale (POS) module, receipt generation, and role-based user authentication.
 
 **Tech:** MS Access, SQL, VBA
