@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Edward D. Policarpio</h1>
+<h1 align="center">👋 Hi, I'm Edward Policarpio</h1>
 <h3 align="center">Full Stack Web Developer & BS Computer Science</h3>
 
 <p align="center">
