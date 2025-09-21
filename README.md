@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Edward Policarpio</h1>
-<h3 align="center">Developer & BS Computer Science</h3>
+<h3 align="center">ComScie | Jr. Dev</h3>
 
 <p align="center">
   <a href="https://itzpoli.vercel.app/">Portfolio</a> •
