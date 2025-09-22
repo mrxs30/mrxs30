@@ -9,15 +9,6 @@
 
 ---
 
-## 🚀 About Me
-
-Tech-driven Computer Science professional with background in IT support and coding. Proficient in troubleshooting, system maintenance, and software development. Committed to delivering efficient solutions and supporting technology-driven business operations.
-
-- 💻 **Developer** with expertise in both frontend and backend technologies
-- 🛠️ **IT Support Specialist** with hands-on experience in troubleshooting and network maintenance
-- 📱 **Problem solver** who enjoys turning complex challenges into simple solutions
-- 🌱 **Continuous learner** always exploring new technologies and methodologies
-
 ## 🛠️ Tech Stack
 
 ### Frontend
